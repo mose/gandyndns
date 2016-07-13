@@ -1,0 +1,17 @@
+# where you have put my-ip.php file
+GETIP_URL="http://example.com/my-ip.php"
+
+# your beta.gandi.net API key
+API_KEY=""
+
+# the zone you created for your domain
+ZONE=""
+
+# the subdomain used for the dynamic address
+SUBDOMAIN="home"
+
+# where to log operations
+LOGFILE="$HOME/gandyndns.log"
+
+# need verbosity?
+DEBUG=true

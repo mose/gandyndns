@@ -19,7 +19,9 @@ Warning
 -------------
 This is a hacky script I use for my own convenience, there is no guarantee it's gonna work for you.
 
-You can tune it to use some public service or some other wayt to retrieve your current IP address.
+You can tune it to use some public service or some other way to retrieve your current IP address.
+
+Just get the script and modify it as you want. That's just a script.
 
 Author
 ---------------

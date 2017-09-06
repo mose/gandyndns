@@ -17,7 +17,7 @@ then
   curl -s -X PUT -H "Content-Type: application/json" \
     -H "X-Api-Key: $API_KEY" \
     -d "{\"rrset_ttl\": 1800, \"rrset_values\": [\"$NEW_IP\"]}" \
-    https://dns.beta.gandi.net/api/v5/zones/$ZONE/records/$SUBDOMAIN/A \
+    https://dns.api.gandi.net/api/v5/zones/$ZONE/records/$SUBDOMAIN/A \
     >> $LOGFILE
   echo >> $LOGFILE
   echo $NEW_IP > ./current_ip

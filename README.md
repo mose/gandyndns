@@ -5,7 +5,7 @@ Prequisites
 -----------------
 - a server with php
 - a gandi beta account on http://beta.gandi.net
-- a domain name using `ns1.gandi.net` aa nameserver
+- a domain name using `ns1.gandi.net` as nameserver
 - a zone associated to that domain (follow instructions on http://doc.livedns.gandi.net/)
 
 Howto
